@@ -15,7 +15,7 @@
 
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="20" /> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="20" /> I’m currently learning **Angular, Typescript**
 
-💬 Ask me about **Python, HTML, CSS... or anything [here]([https://github.com/salesp07/salesp07/issues](https://www.linkedin.com/in/josu%C3%A9-a-polina-romo-06a6b6252/))**
+💬 Ask me about **Python, HTML, CSS... or anything [here](https://www.linkedin.com/in/josu%C3%A9-a-polina-romo-06a6b6252/)**
 
 ⚡ Fun fact **Coding will soon be as important as reading**
 
