@@ -13,7 +13,7 @@
 
 🔭 I’m currently **open to work**
 
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" height="20" /> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="20" /> I’m keep learning **Angular and Typescript**
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" height="20" /> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="20" /> I’m still learning **Angular and Typescript**
 
 💬 Ask me about **Python, HTML, CSS... or anything [here](https://www.linkedin.com/in/josu%C3%A9-a-polina-romo-06a6b6252/)**
 
